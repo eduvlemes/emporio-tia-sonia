@@ -7,6 +7,14 @@
       "autoplay": 0,
       "slides": [
         {
+          "start": "2020-12-18T13:06:04.279Z",
+          "end": "",
+          "img": "/img/uploads/1920x500px-verao-new-min.jpg",
+          "mobile_img": "/img/uploads/1080x080-verao-new-min.jpg",
+          "link": "https://www.emporiotiasonia.com.br/sou-mais",
+          "alt": "Sou-Mais"
+        },
+        {
           "start": "2020-12-15T12:23:01.113Z",
           "end": "2021-01-01T02:59:00.000Z",
           "img": "/img/uploads/03-1920x500px-fim-de-ano-min.jpg",
@@ -45,14 +53,6 @@
           "mobile_img": "/img/uploads/banner-pipoca-1080x1080px-min.jpg",
           "link": "https://www.emporiotiasonia.com.br/pipocas-gourmet",
           "alt": "Pipocas"
-        },
-        {
-          "start": "2020-12-18T13:06:04.279Z",
-          "end": "",
-          "img": "/img/uploads/banner_ecommerce_sou-min.jpg",
-          "mobile_img": "/img/uploads/soumais.jpg",
-          "link": "https://www.emporiotiasonia.com.br/sou-mais",
-          "alt": "Sou-Mais"
         }
       ]
     },
