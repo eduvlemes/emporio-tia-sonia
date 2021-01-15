@@ -7,20 +7,20 @@
       "autoplay": 0,
       "slides": [
         {
+          "start": "2021-01-15T14:44:22.575Z",
+          "end": "",
+          "img": "/img/uploads/low-carb-lancamento-tiasonia-pc.jpg",
+          "link": "https://www.emporiotiasonia.com.br/low-carb",
+          "alt": "TiaSonia",
+          "mobile_img": "/img/uploads/low-carb-lancamento-tiasonia.jpg"
+        },
+        {
           "start": "2020-12-18T13:06:04.279Z",
           "end": "",
           "img": "/img/uploads/1920x500px-verao-new-min.jpg",
           "mobile_img": "/img/uploads/1080x080-verao-new-min.jpg",
           "link": "https://www.emporiotiasonia.com.br/sou-mais",
           "alt": "Sou-Mais"
-        },
-        {
-          "start": "2020-12-15T12:23:01.113Z",
-          "end": "2021-01-01T02:59:00.000Z",
-          "img": "/img/uploads/03-1920x500px-fim-de-ano-min.jpg",
-          "link": "https://www.emporiotiasonia.com.br/search",
-          "alt": "TiaSonia",
-          "mobile_img": "/img/uploads/02-1080x1080-px-fim-de-ano-min.jpg"
         },
         {
           "start": "2020-12-01T11:44:28.440Z",
