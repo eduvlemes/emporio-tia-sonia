@@ -28,6 +28,11 @@ a {
     text-decoration: none;
 }
 
+blockquote {
+    /* margin: 0 0 0rem; */
+    font-style: italic;
+}
+
 //botao cancelar
 .order-info__toggle.btn-danger {display:none;}
 
