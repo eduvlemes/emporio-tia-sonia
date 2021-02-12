@@ -284,6 +284,7 @@ body {
   //slider full
   .banner-slider {
     max-width: 100%;
+   
   }
   //botao add carrinho
   // .products-carousel .product-card__buy .btn-primary{
@@ -646,7 +647,10 @@ h1{
   }
 
   #content > div > .banner-slider:first-child{
-    max-width:100%
+    max-width:100%;
+    --banner-aspect-ratio: 1!important;
+    --banner-aspect-ratio-mobile: 1;
+    height:auto;
   }
 }
 @media(max-width:990px){
@@ -850,3 +854,19 @@ font-family:PT Sans;
 }
 
 .menu__item{border:0;}
+
+
+@media(max-width:990px){
+  #mlb2-1703292.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody.ml-form-embedBodyHorizontal{
+    display: block;
+    padding: 0;
+    width: 100%;
+    max-width: 80vw;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .footer-newsletter{
+    margin: 0;
+    padding: 15px;
+  }
+}
