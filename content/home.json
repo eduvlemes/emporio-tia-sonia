@@ -42,6 +42,14 @@
       "sort": "sales"
     },
     {
+      "type": "custom-html",
+      "html": "<h4 class=\"products-carousel__title\"><a href=\"javascript;:\">Milhares de clientes já provaram os Produtos Tia Sônia, confira algumas opiniões.</a></h4>"
+    },
+    {
+      "type": "custom-html",
+      "html": "<!-- Trustvox -->\n<script type=\"text/javascript\" src=\"//colt.trustvox.com.br/colt.min.js\"></script><script>var _trustvox_colt = _trustvox_colt || [];_trustvox_colt.push(['_storeId', '85317'], ['_limit', '9']);</script>\n<!-- /Trustvox -->\n<div id=\"_trustvox_colt\"></div>"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "collection_id": "5dfb92855cdf932a9836d9ac",
