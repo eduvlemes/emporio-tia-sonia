@@ -42,12 +42,6 @@ blockquote {
     flex-wrap: unset;
   }
 
-//selo trusvox rodape
-.trustvox-certificate__fixed-tiny{
-    position: absolute;
-    top: 170px;
-    right: -654px;}
-} 
 
 //size h1
 h1 {
@@ -209,6 +203,7 @@ body {
 }
 //fonte title colecoes
 .products-carousel__title {font-size: 1rem;}
+
 // ver mais
 .products-carousel__title a::after {
   content: ' ( Ver + )';
@@ -389,4 +384,9 @@ display: none !important;
     float: right;    
     margin-right: -20px;
     text-transform: uppercase;
+}
+
+// altura selos 95
+.stamps img {
+    max-height: 95px;
 }
