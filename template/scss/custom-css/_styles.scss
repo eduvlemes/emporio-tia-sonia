@@ -36,13 +36,6 @@ blockquote {
 //botao cancelar
 .order-info__toggle.btn-danger {display:none;}
 
-//selos rodape 
-@media (min-width: 768px) {
-  .stamps {
-    flex-wrap: unset;
-  }
-
-
 //size h1
 h1 {
     font-size: 1.5rem !important;
