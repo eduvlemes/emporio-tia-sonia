@@ -62,18 +62,6 @@
       "sort": "sales"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/13-banner-vtc-1280x600px_2_.webp",
-          "alt": "Vitoria-da-Conquista"
-        },
-        {
-          "img": "/img/uploads/ssa.jpg"
-        }
-      ]
-    },
-    {
       "type": "responsive-banner",
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSd0D_JwA36qSMeSArUjFZMWvjBpV3FuKQM5gpIQJwcNK8D9ig/viewform",
       "alt": "parceiros",
