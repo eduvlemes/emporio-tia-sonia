@@ -13,38 +13,6 @@
           "link": "https://www.emporiotiasonia.com.br/low-carb",
           "alt": "TiaSonia",
           "mobile_img": "/img/uploads/low-carb-lancamento-tiasonia.jpg"
-        },
-        {
-          "start": "2020-12-01T11:44:28.440Z",
-          "end": "",
-          "img": "/img/uploads/naturais.jpg",
-          "link": "https://www.emporiotiasonia.com.br/naturais",
-          "alt": "Naturais",
-          "mobile_img": "/img/uploads/naturais-mob.jpg"
-        },
-        {
-          "start": "2020-07-27T12:27:54.217Z",
-          "end": "",
-          "img": "/img/uploads/caju_-min.jpg",
-          "mobile_img": "/img/uploads/caju-min.jpg",
-          "link": "https://www.emporiotiasonia.com.br/castanha-de-caju",
-          "alt": "Kit-Caju"
-        },
-        {
-          "start": "2020-10-16T21:09:17.907Z",
-          "end": "",
-          "img": "/img/uploads/banner-ecommerce-cookies-03-min.jpg",
-          "mobile_img": "/img/uploads/card-cookies-20g-min.jpg",
-          "link": "https://www.emporiotiasonia.com.br/cookies",
-          "alt": "cookies"
-        },
-        {
-          "start": "2020-10-01T09:44:51.370Z",
-          "end": "",
-          "img": "/img/uploads/banner-pipocas-min.jpg",
-          "mobile_img": "/img/uploads/banner-pipoca-1080x1080px-min.jpg",
-          "link": "https://www.emporiotiasonia.com.br/pipocas-gourmet",
-          "alt": "Pipocas"
         }
       ]
     },
