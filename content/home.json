@@ -43,7 +43,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<h4 class=\"products-carousel__title\"><a href=\"javascript;:\">Milhares de clientes já provaram os Produtos Tia Sônia, confira algumas opiniões.</a></h4>"
+      "html": "<h4 class=\"products-carousel__title\"><a target=\"_blank\" href=\"https://certificados.trustvox.com.br/emporiotiasonia\">Milhares de clientes já provaram os Produtos Tia Sônia, confira algumas opiniões.</a></h4>"
     },
     {
       "type": "custom-html",
