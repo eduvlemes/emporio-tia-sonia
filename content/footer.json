@@ -12,6 +12,10 @@
         "url": "/pages/contato"
       },
       {
+        "text": "Assine Tia Sônia",
+        "url": "https://assinetiasonia.com.br"
+      },
+      {
         "text": "Acompanhar Pedido",
         "url": "/acompanhar-pedido"
       },
@@ -102,7 +106,7 @@
   "contacts": {
     "title": "Contatos",
     "phone_wpp": true,
-    "socials": false,
+    "socials": true,
     "email": true,
     "address": false
   },
@@ -116,11 +120,6 @@
       "alt": "Produto Vegano"
     },
     {
-      "src": "/img/uploads/eu-reciclo-120-80.png",
-      "link": "",
-      "alt": "Selo Tia Sônia Eureciclo"
-    },
-    {
       "src": "/img/uploads/ibd-120-80.png",
       "alt": "Certificado Orgânico IBD"
     },
@@ -129,8 +128,9 @@
       "alt": "USDA Organic"
     },
     {
-      "src": "/img/uploads/seloablec-01.png",
-      "alt": "ablec"
+      "src": "/img/uploads/eu-reciclo-120-80.png",
+      "link": "",
+      "alt": "Selo Tia Sônia Eureciclo"
     }
   ],
   "payment_methods": {
