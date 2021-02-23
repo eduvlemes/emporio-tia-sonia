@@ -11,48 +11,8 @@
           "end": "",
           "img": "/img/uploads/low-carb-lancamento-tiasonia-pc.jpg",
           "link": "https://www.emporiotiasonia.com.br/low-carb",
-          "alt": "TiaSonia",
+          "alt": "Low",
           "mobile_img": "/img/uploads/low-carb-lancamento-tiasonia.jpg"
-        },
-        {
-          "start": "2020-12-18T13:06:04.279Z",
-          "end": "",
-          "img": "/img/uploads/1920x500px-verao-new-min.jpg",
-          "mobile_img": "/img/uploads/1080x080-verao-new-min.jpg",
-          "link": "https://www.emporiotiasonia.com.br/sou-mais",
-          "alt": "Sou-Mais"
-        },
-        {
-          "start": "2020-12-01T11:44:28.440Z",
-          "end": "",
-          "img": "/img/uploads/naturais.jpg",
-          "link": "https://www.emporiotiasonia.com.br/naturais",
-          "alt": "Naturais",
-          "mobile_img": "/img/uploads/naturais-mob.jpg"
-        },
-        {
-          "start": "2020-07-27T12:27:54.217Z",
-          "end": "",
-          "img": "/img/uploads/caju_-min.jpg",
-          "mobile_img": "/img/uploads/caju-min.jpg",
-          "link": "https://www.emporiotiasonia.com.br/castanha-de-caju",
-          "alt": "Kit-Caju"
-        },
-        {
-          "start": "2020-10-16T21:09:17.907Z",
-          "end": "",
-          "img": "/img/uploads/banner-ecommerce-cookies-03-min.jpg",
-          "mobile_img": "/img/uploads/card-cookies-20g-min.jpg",
-          "link": "https://www.emporiotiasonia.com.br/cookies",
-          "alt": "cookies"
-        },
-        {
-          "start": "2020-10-01T09:44:51.370Z",
-          "end": "",
-          "img": "/img/uploads/banner-pipocas-min.jpg",
-          "mobile_img": "/img/uploads/banner-pipoca-1080x1080px-min.jpg",
-          "link": "https://www.emporiotiasonia.com.br/pipocas-gourmet",
-          "alt": "Pipocas"
         }
       ]
     },
@@ -60,7 +20,7 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5f43fb1bf023684cdbdc7aee:collections:Novidades da Tia Sônia:/novidades-da-tia-sonia",
-      "title": "Novidades! 💙",
+      "title": "Acabamos de Lançar!",
       "sort": "sales"
     },
     {
@@ -68,18 +28,6 @@
       "shuffle": false,
       "collection_id": "5fa09652b2161709fa47b105",
       "sort": "sales"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/13-banner-vtc-1280x600px_2_.webp",
-          "alt": "Vitoria-da-Conquista"
-        },
-        {
-          "img": "/img/uploads/ssa.jpg"
-        }
-      ]
     },
     {
       "type": "responsive-banner",
@@ -92,6 +40,14 @@
       "shuffle": false,
       "collection_id": "5f9c2780b2161709fa46a603",
       "sort": "sales"
+    },
+    {
+      "type": "custom-html",
+      "html": "<h4 class=\"products-carousel__title\"><a target=\"_blank\" href=\"https://certificados.trustvox.com.br/emporiotiasonia\">Milhares de clientes já provaram os Produtos Tia Sônia, confira algumas opiniões.</a></h4>"
+    },
+    {
+      "type": "custom-html",
+      "html": "<!-- Trustvox -->\n<script type=\"text/javascript\" src=\"//colt.trustvox.com.br/colt.min.js\"></script><script>var _trustvox_colt = _trustvox_colt || [];_trustvox_colt.push(['_storeId', '85317'], ['_limit', '9']);</script>\n<!-- /Trustvox -->\n<div id=\"_trustvox_colt\"></div>"
     },
     {
       "type": "collection-shelf",

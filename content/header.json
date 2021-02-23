@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "💙 Chegou a nova linha de Granolas Low Carb (saber mais)",
-    "link": "https://www.emporiotiasonia.com.br/low-carb",
+    "text": "💛 HOJE TEM FRETE GRÁTIS (COMPRAS A PARTIR DE 99)",
+    "link": "",
     "background": "#0a59a8",
     "color": "#ffffff"
   },
@@ -21,7 +21,7 @@
   },
   "categories_list": {
     "featured": [
-      "/kits-tia-sonias?Kits",
+      "/kits-tia-sonia?Kits Tia Sônia",
       "/granola-tia-sonia?Granolas",
       "/integral-col?Integral",
       "/vegano-col?Vegano",

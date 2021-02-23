@@ -4,7 +4,7 @@
   font-weight:500;
   padding-top: 5px;
   padding-bottom: 5px;
-  //background:#803b6b !important;
+  //background:#88602d !important;
 }
 #header {
     //background-color:#F8F9FA !important;     
@@ -22,21 +22,19 @@
     //color: #cecece;
  }
 
+//links blog
+.blog-post a {
+    color: #394177;
+    text-decoration: none;
+}
+
+blockquote {
+    margin: 0px 20px 0px 20px;
+    font-style: italic;
+}
+
 //botao cancelar
 .order-info__toggle.btn-danger {display:none;}
-
-//selos rodape 
-@media (min-width: 768px) {
-  .stamps {
-    flex-wrap: unset;
-  }
-
-//selo trusvox rodape
-.trustvox-certificate__fixed-tiny{
-    position: absolute;
-    top: 125px;
-    right: -654px;}
-} 
 
 //size h1
 h1 {
@@ -198,6 +196,7 @@ body {
 }
 //fonte title colecoes
 .products-carousel__title {font-size: 1rem;}
+
 // ver mais
 .products-carousel__title a::after {
   content: ' ( Ver + )';
@@ -229,12 +228,6 @@ body {
 }
 .footer__title +ul.list-unstyled > li:nth-child(2) > a {
   color: #2C0E7A !important;
-}
-.footer__stamps li:nth-child(3) > img {
-  width: 70%;
-}
-.footer__stamps img {
-  max-width: 120px;
 }
 .footer__credits {
   border-top: 1px solid #000;
@@ -386,7 +379,6 @@ display: none !important;
     margin-right: -20px;
     text-transform: uppercase;
 }
-
 
 /* ALPIX */
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
@@ -927,3 +919,6 @@ font-family:PT Sans;
 .menu__item{padding:0px 15px;}
 #accordion-menu .menu__item span.menu__item-icon{padding:0;height:auto!important}
 .menu__list > .menu_item{}
+
+// altura selos 95
+.stamps img {max-height: 95px !important; }
